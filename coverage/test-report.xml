@@ -1,0 +1,6 @@
+<testExecutions version="1">
+<file path="test/lambda.test.ts">
+</file>
+<file path="test/aws-step-functions.test.ts">
+</file>
+</testExecutions>
